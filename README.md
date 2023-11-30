@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Mikhail Poylov](https://up.htmlacademy.ru/adaptive/30/user/2354265).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Остаповец](https://up.htmlacademy.ru/profession/frontender-extended/5/adaptive/30/user/288419).
 
 ---
 
